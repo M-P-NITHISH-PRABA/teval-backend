@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentence-transformers
+rake-nltk
+sqlalchemy
+pydantic
+python-multipart
